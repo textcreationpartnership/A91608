@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers dream: or the Devil's pilgrimage in England: being an infallible relation of their several meetings, shreekings, shakings, quakings, roarings, yellings, howlings, tremblings in the bodies, and risings in the bellies: with a narrative of their several arguments, tenets, principles, and strange d ctrine [sic]: the strange and wonderful satanical apparitions, and the appearing of the Devil unto them in the likeness of a black boar, a dog with flaming eye, and a black man without a head, causing the dogs to bark, the swine to cry, and the cattel to run, to the great adminration of all that shall read the same.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91608</idno><idno type="EEBO-CITATION">99866576</idno>
+  <idno type="VID">168124</idno>
+  <idno type="EEBO-PROQUEST">2240945156</idno>
+  
+            <idno type="STC">Wing Q22</idno>
+            <idno type="STC">Thomason E833_14</idno>
+            <idno type="STC">ESTC R207531</idno>
+            <idno type="PROQUEST">99866576</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866576e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168124)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 126:E833[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers dream: or the Devil's pilgrimage in England: being an infallible relation of their several meetings, shreekings, shakings, quakings, roarings, yellings, howlings, tremblings in the bodies, and risings in the bellies: with a narrative of their several arguments, tenets, principles, and strange d ctrine [sic]: the strange and wonderful satanical apparitions, and the appearing of the Devil unto them in the likeness of a black boar, a dog with flaming eye, and a black man without a head, causing the dogs to bark, the swine to cry, and the cattel to run, to the great adminration of all that shall read the same.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton, and are to be sold at the Royal Exchange,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title page woodcut of four scenes, each with caption that reads (from left to right): "free-will"; "walk answerable to the light within you"; "be thou merry"; and "above ordinances".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Devil --  Early works to 1800.</term>
+               <term type="topical_term">Demoniac possession --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168124:1"/>
+            <p>THE QVAKERS DREAM: <hi>OR,</hi> The Devil's Pilgrimage in England: <hi>BEING</hi> An infallible Relation of their several Meetings, Shreekings, Shakings, Quakings, Roarings, Yellings, Howlings, Trem<g ref="char:EOLhyphen"/>blings in the Bodies, and Rinngs in the Bellies: With a Narrative of their several Arguments, Tenets, Principles, and strange D<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctrine: The strange and wonderful Satanical Apparitions, and the appearing of the Devil unto them in the likeness of a black Boar, a Dog with flaming eye, and a black man without a head, causing the Dogs to bark, the Swine to cry, and the Cattel to run, to the great admiration of all that shall read the same.</p>
+            <figure>
+               <p>
+                  <hi>Free-vvill.</hi>
+               </p>
+               <figDesc>woodcut panel of two men and a kissing couple</figDesc>
+            </figure>
+            <figure>
+               <p>
+                  <hi>walk answerable to the light vvithin you.</hi>
+               </p>
+               <figDesc>woodcut panel of people listening to a man standing on a barrel</figDesc>
+            </figure>
+            <figure>
+               <p>
+                  <hi>be thou merry.</hi>
+               </p>
+               <figDesc>woodcut panel of three men sitting at a table</figDesc>
+            </figure>
+            <figure>
+               <p>
+                  <hi>Above Ordinances</hi>
+               </p>
+               <figDesc>woodcut panel of four naked figures and one clothed man</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Horton,</hi> and are to be sold at the Royal Exchange in Cornhil, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168124:2"/>
+            <pb n="3" facs="tcp:168124:2"/>
+            <head>The Devils Pilgrimage in England, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S the Scripture is divinely inspired, so holy men spake as they were acted, and carryed thereunto by the Holy Ghost: And to prove the Divinity thereof, and to maugre the wicked Te<g ref="char:EOLhyphen"/>nets of too many Apostates in these sad and perilous Times, we shall recite these Arguments <hi>aposteriori,</hi> that is, the vene<g ref="char:EOLhyphen"/>rable antiquity, matchless majesty, lively efficacy, b autiful harmony, in<g ref="char:EOLhyphen"/>corrigible purity, and invincible perennity, in opposition both to the inju<g ref="char:EOLhyphen"/>ry and iniquity of Times and Tyrants, who have endeavoured and sought to suppress them: witness the burning of the Bible by sundry Quakers, flanters, or Shakers, and their denying of the true Testimony thereof, and wresting of it to their own ways and fancies, as many who resort to the Mouth at Aldersgate, and other places do, their principal design being to disgrace the Ministry, and all publike Ordinances; And so numerous are they both in City and Countrey, that the Devil has led them a Pilgrimage as far as Wrexham in North-Wales, where they hold universal Redempti<g ref="char:EOLhyphen"/>on, Free-will, and falling from Grace, publishing that all men have the pure seed of God in them, and that they themselves were perfect, and with<g ref="char:EOLhyphen"/>out sin; that they knew at the fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st sight sinc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re Christians from Hypocrits; And very observable it is, that at their meetings (after lodg silence) some<g ref="char:EOLhyphen"/>times one, sometimes more, f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll into a great and dreadful shaking &amp; trem<g ref="char:EOLhyphen"/>bling in their whole bodies, and all their joynts, with such risings, &amp; swel<g ref="char:EOLhyphen"/>lings in their bellies and bowels, sending forth such shreekings, yellings, howlings, and roarings, as not onely affrighted the spectators, but caused the Dogs to bark, the Swine to cry, and the Cattel-ran about, to the asto<g ref="char:EOLhyphen"/>nishment
+<pb n="4" facs="tcp:168124:3"/> of al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that heard them. By th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se artifices one M. <hi>Gilpin</hi> was drawn in to associate himself with them, and was so taken with their Doctrine, that he resolved to close with them, refusing to read any good books, t hear any preaching Ministe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or to call to remembrance any thing which he had formerly learn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d concerning G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, Christ, his own estate, or any o<g ref="char:EOLhyphen"/>ther thing contained in the Scriptures; for they told him that all such knowledge was but Notional, ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nal, &amp; hanging upon the Tree of know<g ref="char:EOLhyphen"/>ledge: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dding, <hi>Cursed is every one tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hangs on this Tree.</hi>
+            </p>
+            <p>And one of them told him, that Christ was a man, had his failings, di<g ref="char:EOLhyphen"/>st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>usted God, &amp;c.</p>
+            <p>At his n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt meeting he was u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged to carry the Cross, and to hearken to a voyce w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hin him, speaking much of a light within th m, which <hi>Gilpi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot yet fi di g, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s much troubled, and desired to fall into the Quakin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, thinking that thereby he shou d attain to the immediate discoveries o God to him.</p>
+            <p>And accordingly soon after as he was walking in his chamber, he bega<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to quake so extr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amly that he cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not stand, but fel upon his best, wher he houled and cryed in a terrible and hideous manner, (as others of ther us<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to do) yet was he not afraid, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> looked upon it as the pangs of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> New birth. After half an hour he ceased from houling; and rejoyced th he could now witness against the Min<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sters of England as false Prophets Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ests of Ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l.</p>
+            <p>All the night after he was much troubled with D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eams about his sins and when he awaked, he discerned something to enter into his body, whic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Satan suggested to be the Spirit of G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d like a Dove; and he th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ught I heard a voyc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wi hin him, saying, <hi>It is day, it is day, so sure as it is light sha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Christ give thee light.</hi> Thus, in a Vision, granting a Bond and Covenant, I wait<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d for 2 13 days for more light, and walking into his Ga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>den, he la<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> down with his face to the earth, at which time his right hand extream to shake; and he was in a g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pture of joy, apprehending it to be a f<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gure of his spiri ual Marriage and U<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion with Christ.</p>
+            <p>Then did the power within raise him, and set him on his feet, and after<g ref="char:EOLunhyphen"/>wards la d him on his b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck brought his si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s into remembrance, and cause<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his hand at every sin to strike the ground, hearing a voyce within, saying, <hi>Now is such a sin mortified.</hi>
+            </p>
+            <p>Then he went to another of their Meetings, with which he was mor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> affected then formerly; for that he was conceited he could inwardly wit<g ref="char:EOLhyphen"/>ness to what he spake And upon th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> speaking of one <hi>J. Andland, Gilpin</hi> wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:168124:3"/> by the Devil within him drawn out of his Chair, and thrown upon the ground, where he lay all night.</p>
+            <p>All which time his body and members were in motion, being turned from his back on his belly, and so back again several times, making C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>os<g ref="char:EOLhyphen"/>ses with his legs, and his hands moving on the ground z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if he had binwri<g ref="char:EOLhyphen"/>ting; and he heard (as he thought) a voice saying, That that writing with his hand on the ground signified the writing of the L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his heart: then were his hands moved to his head, and he heard the voice sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing,
+<q>
+                  <l>Christ in God,</l>
+                  <l>God in Christ,</l>
+                  <l>And Christ in thee.</l>
+               </q>
+            </p>
+            <p>Which words he was comp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lled to sing fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th in a st ange manner, and with such a voice as was not his own. Then the Devil raised him up, and bid him be humble, and led him out at a back door to the River, and back <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in, and then into the Town, where he was drawn down the street to a door that he knew not: whereupon two of them that followed him, said, Whither will you go? This is the Fidle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>use: <hi>Gilpin</hi> answered, Be it those house it will, Christ leads me hithe, and hither I must go: Then was his hand forced to knock at the door, and a voice b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d him say, B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hold Christ stands at the door and knocks.</p>
+            <p>The Fidler opening the door, he went in, and taking down a Base viol, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e was forced to play on it, and to dance; whereupon h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> questioned what <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>or e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> led him to such actions? and the voice p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esently answer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d him, This is not because I love musick, for I hate it, but t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> signifi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to thee what by there is in heaven at thy conve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sion: as also, what spiritual melody <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hou shalt have hereafter.</p>
+            <p>Then was he led out of the house, and carryed through the Town, being <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ced as he went, to proclaim, I am the way, the truth, and the light. Then <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>is hand was forced to take up a stone, which he t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought to be like a mans <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>art, and the voice told him, That Christ had taken that stone out of his <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eart, and given him an heart of fi sh: then holding it forth to the sp cta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s, he threw the stone amongst them.</p>
+            <pb n="6" facs="tcp:168124:4"/>
+            <p>Then was he cast upon his back on the ground, and the voice said, <hi>Thou shalt have two Angels to keep thee;</hi> and immediatly two Swall<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ws came down the Chimney, and sat on a shelf neer him: whereupon he cryed, <hi>My Angels, my Angels,</hi> and withall lifted up his hands; At which motion they vani<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hed.<figure>
+                  <figDesc>woodcut of kneeling man</figDesc>
+               </figure> Then was he c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rried upon his hands and knees out of the doores into the street, and when his wife would have stopped him, he said, <hi>He must not be stopped,</hi> conceiving that he bare the Cross of Christ upon his neck. Then the voyce asked him, <hi>Where is thy Cross?</hi> upon which he thought he saw it vi<g ref="char:EOLhyphen"/>sible hanging in a thread, which with his hand he put behind his neck. Thus he continued till the evening, when many of the Quakers came to him, saying, <hi>Be lowly minded, and hearken to the voyce within thee,</hi> and so they left him. But immediatly he began to question, whether these strange Acti<g ref="char:EOLhyphen"/>ons were Divine or Diabolical? whereupon he began to tremble, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his hand was forced to take up a knife which lay by, and to point it to his throat, and the voice said to him, <hi>Open a hole there, and I will give thee eternall life:</hi> But casting of it away, he had an assurance that he was possessed by the Devil, crying out, <hi>Now the Devil is gone out of me,</hi> at which instant, he and his
+<pb n="7" facs="tcp:168124:4"/> family heard it thunder, though no others heard it. Shortly after the Devil came to him again, and told him that it was Satan that had possessed and seduced him hitherto, but now Christ was come, and had cast out Satan, &amp; told him also that what he had done the day before was in obedience unto Satan, and that at he had then served him in his cloaths, so now he must undo all in his shirt in obedience to Christ: whereupon he went into the street naked, where (in a vision) he beheld some of the Quakers dancing na<g ref="char:EOLhyphen"/>ked, others feasting, and some again greeting. Then the Devil told him, that he must be carryed into the house by 4 women, or else that he should for e<g ref="char:EOLhyphen"/>ver stand there like a pillar of salt, as <hi>Lots</hi> wife did.</p>
+            <p>Then 4 women carryed him into his bed, where in his short he played topsey-turvey from one bed to another; and immediatly app<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>red a man without his head; for you must note, he was formerly a Tub-man, and no smal enemy to the late King.</p>
+            <p>After which, is pleased God to give him a sight of these delusions, cry<g ref="char:EOLhyphen"/>ing out with a loud voyce, <hi>Lord, Lord, what have I done, or what wilt thou have me to do?</hi> But the Devil answered, <hi>It's too late to cry unto God, for Sentence is already past against thee, give me my bond, for it belongs unto me, thou hast nothing to do with it.</hi>
+            </p>
+            <p>To whom he answered,</p>
+            <p>Satan, Satan, thou shalt not have the bond, thou hast nothing to do with it, I have put it where thou canst not fetch it; for it is in my Bible at the 3<seg rend="sup">d</seg> Chapter of Genesis, where these words are, <hi>The seed of the woman shall break the Serpents head:</hi> Upon this the Devil (in a fiery flame) vanished, ta<g ref="char:EOLhyphen"/>king the window along with him.</p>
+            <p>Thus having (through the Lords infinite mercies) received the Testi<g ref="char:EOLhyphen"/>mony of Jesus Christ, and the peace of a good Conscience, he caused a Nar<g ref="char:EOLhyphen"/>rative to be published, discovering the danger of these wayes, &amp;c. whereby many has been convinced of their declining from their former stedfastness; as appears by the ensuing Examples.</p>
+            <pb n="8" facs="tcp:168124:5"/>
+            <p>In Liecestershire a converted Q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aker sitting at his book in his chamber, the Devil appeared, looking over his shoulder, which he perceiving, took a piece of paper, and wrote in it, <hi>The Son of God came to dissolve the workes of the Devil;</hi> and so holding up that paper to the Devil, he vanished.</p>
+            <p>Another being molested by sundry nois<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made by the Devil in his cham<g ref="char:EOLhyphen"/>ber, encountred him with that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntence, <hi>Omnia subjecisti pedibus ejus,</hi> Thou hast put all things in subjection <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder his feet: After which he remained in safety.</p>
+            <p>Another being walking alone in his garden, the Devil appeared to him in the likeness of a black Boar; but upon these words pronouncing, <hi>The Son of God appeared to destroy the works of the Devil,</hi> it vanish d.</p>
+            <p>Another of M. <hi>Foxe's</hi> Parantes being likewise converted, the Devil ap<g ref="char:EOLhyphen"/>peared to him as he lay in his bed: To whom he said, <hi>If thou hast nothing else to do thou mayst stand there still, for I will betake my self to rest:</hi> And accord<g ref="char:EOLhyphen"/>ingly composing himself to sleep, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Devil vanish<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
